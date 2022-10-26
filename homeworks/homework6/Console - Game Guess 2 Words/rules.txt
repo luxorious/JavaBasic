@@ -1,0 +1,10 @@
+en
+The rules of the game are very simple, 
+a field appears in front of the player 
+in which there are 16 symbols ʼʼ*ʼʼ under 
+each symbol there is a word hidden, you need 
+to guess a pair of words in the game 8 pairs 
+of words are hidden, to win you need to guess 
+where all 8 pairs of words are hidden. 
+The player needs to enter only the cell number 
+of the first and second words.
